@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.one {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.one h2 {
+    padding-top: 40px;
+    font-family: "Roboto", sans-serif;
+
+}
+
+.one p {
+    padding-top: 10px;
+    font-family: "Roboto", sans-serif;
+    color: rgb(79, 72, 72);
+
+}
+
+.one h4 {
+    margin-top: -10px;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+   
+}
+
+.one img {
+    height: 300px;
+    border-radius: 5px;
+}
